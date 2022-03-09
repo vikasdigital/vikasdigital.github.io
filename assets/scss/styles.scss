@@ -446,6 +446,7 @@ img{
             grid-template-columns: repeat(2,1fr);
             align-items: center;
             text-align: initial;
+            h2: repeat(2,1fr)
         }
         &__img{
             & img{
