@@ -303,16 +303,16 @@ img{
         z-index: var(--z-back);
     }
     &__html{
-        width: 95%;
+        width: 55%;
     }
     &__css{
-        width: 85%;
+        width: 70%;
     }
     &__js{
-        width: 65%;
+        width: 67%;
     }
     &__ux{
-        width: 85%;
+        width: 61%;
     }
     &__img{
         border-radius: .5rem;
@@ -446,7 +446,7 @@ img{
             grid-template-columns: repeat(2,1fr);
             align-items: center;
             text-align: initial;
-            h2: repeat(2,1fr)
+            
         }
         &__img{
             & img{
