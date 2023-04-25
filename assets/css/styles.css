@@ -245,7 +245,7 @@ img{
   justify-self: center;
 }
 .about__img img{
-
+  width: fit-content;
   border-radius: .5rem;
 }
 
